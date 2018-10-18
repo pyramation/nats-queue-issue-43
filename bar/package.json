@@ -1,0 +1,12 @@
+{
+    "name": "function",
+    "version": "1.0.0",
+    "description": "",
+    "main": "handler.js",
+    "keywords": [],
+    "author": "pyramation@gmail.com",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
